@@ -1,5 +1,15 @@
 # Release History
 
+### 0.16.0 / 2020-03-23
+
+#### ⚠ BREAKING CHANGES
+
+* **dialogflow:** use clients created by the new generator
+
+#### Features
+
+* use clients created by the new generator
+
 ### 0.15.0 / 2020-03-11
 
 #### Features
