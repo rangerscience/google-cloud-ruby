@@ -1,5 +1,11 @@
 # Release History
 
+### 0.3.0 / 2020-03-23
+
+#### Features
+
+* Path helpers can be called as module functions
+
 ### 0.2.0 / 2020-03-18
 
 * Support separate project setting for quota/billing
