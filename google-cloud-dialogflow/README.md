@@ -20,6 +20,10 @@ steps:
 $ gem install google-cloud-dialogflow
 ```
 
+```
+require 'google/cloud/dialogflow'
+```
+
 ### Next Steps
 - Read the [Client Library Documentation][] for Dialogflow API
   to see other available methods on the client.
